@@ -3,6 +3,7 @@
   - git clone https://github.com/dharun-sukumar/Whatsapp-bot-with-chatGPT.git
   - cd Whatsapp-bot-with-chatGPT
   - npm install
+  - In [.env](https://github.com/dharun-sukumar/Whatsapp-bot-with-chatGPT/blob/main/.env), change ```API``` to yout AIP key provided in OpenAi
   - npm start
 
 ## Working:
